@@ -11,7 +11,7 @@ image:
 
 | 英文 | 中文 |
 | --- | --- |
-| artifacts  |  部署包 |
+| artifacts  |  部署~~包~~制品 |
 | Telemetry | 告警数据 
 | process time | 处理时间
 | cycle time  | 周期时间
@@ -20,11 +20,11 @@ image:
 | lead time  | 前置时间|
 | developer  | 开发人员
 | Exploratory test  | 探索测试
-| batch sizes  | 批次尺寸、批量
+| batch sizes  | 批次尺寸、批量大小
 | Affinity | 亲和
 | Agile | 敏捷
 | Application Deployment | 应用部署
-| Artifact Management | 构件库管理
+| Artifact Management | ~~构件~~制品库管理
 | Automation | 自动化
 | Blamelessness | 免责
 | Cloud Computing | 云计算
@@ -39,11 +39,11 @@ image:
 | Iteration | 迭代
 | ITSM (IT Service Management) | IT服务管理
 | Ji-Kotei-Kanketsu (JKK) | 质量检查（JKK）
-| Just-in-Time (JiT) | 准时
+| Just-in-Time (JiT) | ~~准时~~即时
 | Kaizen (in Lean) | 持续改善
 | Lean | 精益
 | Micro-service | 微服务
-| Minimum Viable Product | 最小可用产品
+| Minimum Viable Product | 最小可~~用~~行产品
 | One-piece-flow |单件流
 | Operations Story | 运维故事
 | Organizational Learning | 组织级学习
@@ -57,7 +57,7 @@ image:
 | Scrum Master  | Scrum Master
 | Service Deployment | 服务部署
 | Service Level Agreement (SLA) | 服务级别协议(SLA)
-| Sprint | 冲刺
+| Sprint | ~~冲刺~~短迭代
 | Test Story | 测试故事
 | Test-Driven Development | 测试驱动开发
 | Tools | 工具
@@ -71,7 +71,7 @@ image:
 | Work center | 工作中心
 | Flow | 流
 | Kanban | 看板
-| Backlog | Backlog
+| Backlog | ~~Backlog~~待办项列表
 | Visible | 可视化
 | Value stream | 价值流
 | Staging | Staging
